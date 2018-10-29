@@ -8,9 +8,9 @@
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        * whuang259                William Huang
-       * lyzhao2       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * lyzhao2                  Linda Zhao
+       * GitHub username 3:       Yangzhang Zhu
+       * GitHub username 4:       August Chang
    * When did you complete this exercise? 
    10/29
    * How long did it take your team to complete this exercise? 

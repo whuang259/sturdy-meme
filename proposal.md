@@ -29,12 +29,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
+
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Give your project proposal a name (and edit the top line of this file)  
 
 
 

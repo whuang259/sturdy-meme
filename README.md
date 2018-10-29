@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * whuang259                William Huang
        * lyzhao2                  Linda Zhao
-       * GitHub username 3:       Yangzhang Zhu
+       * IanZhuWisc               Yangzhang Zhu
        * GitHub username 4:       August Chang
    * When did you complete this exercise? 
    10/29

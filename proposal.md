@@ -54,12 +54,12 @@ simple GUI(For add/delete classes button, the amount of credit to graduate, the 
 A simple graph node class to store the data for each required class. An overarching graph class to store every class. A main runner class to start the program and handle I/O and start/handle the UI. An UI class to handle all graphical elements which may then split into more subclasses for each graphical element.
 
 
-Name each interface or class and briefly describe its function or purpose.
-*Node: Stores information for classes
-*Graph: Stores information for every class
-*Main: Runs the program, handles I/O and UI
-*UI: Handles graphics
-*Elements Subclasses(Button/List/etc): Handles graphical elements
+Name each interface or class and briefly describe its function or purpose.  
+* Node: Stores information for classes
+* Graph: Stores information for every class
+* Main: Runs the program, handles I/O and UI
+* UI: Handles graphics
+* Elements Subclasses(Button/List/etc): Handles graphical elements
 
 ## Edit and Submit this file and any figures referenced by this document.
 

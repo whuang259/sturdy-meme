@@ -29,9 +29,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
+To complete a degree, students have to navigate a maze of major requirements compounded with prerequisites for each class. This leads to many students spending more semesters (and tuition money!) than necessary to complete a degree that should have taken less time. We intend to solve this problem with a progrem that will determine the most optimal schedule per semester and thus the least amount of time needed for a degree.
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+We will solve this using a DiGraph modeling classes as node and prerequisites and directed edges. We can determine the optimal schedule using a combination of BFS and topological sort.
 
 ## Questions to answer for Exercise #2
 

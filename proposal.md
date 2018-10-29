@@ -38,11 +38,11 @@ Describe at a high level a program that could solve that problem.
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.  
 A list of classes you should take for each semester and the least amount of semesters to finish your degree. 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.  
 A list of classes and the required prerequisites to take each class. Each class should be required to complete the major.
 
 

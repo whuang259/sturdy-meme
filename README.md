@@ -11,9 +11,9 @@
        * lyzhao2                  Linda Zhao
        * IanZhuWisc               Yangzhang Zhu
        * GitHub username 4:       August Chang
-   * When did you complete this exercise? 
+   * When did you complete this exercise?  
    10/29
-   * How long did it take your team to complete this exercise? 
+   * How long did it take your team to complete this exercise?  
    About one hour
 
 ## Table of Contents

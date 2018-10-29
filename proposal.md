@@ -50,8 +50,8 @@ A list of classes and the required prerequisites to take each class. Each class 
 simple GUI(For add/delete classes button, the amount of credit to graduate, the table for the list of classes to complete each semester)
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.  
+A simple graph node class to store the data for each required class. An overarching graph class to store every class. A main runner class to start the program and handle I/O and start/handle the UI. An UI class to handle all graphical elements which may then split into more subclasses for each graphical element.
 
 
 Name each interface or class and briefly describe its function or purpose.

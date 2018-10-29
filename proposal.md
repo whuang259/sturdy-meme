@@ -39,7 +39,7 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+A list of classes you should take for each semester and the least amount of semesters to finish your degree. 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.

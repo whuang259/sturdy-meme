@@ -10,7 +10,7 @@
        * whuang259                William Huang
        * lyzhao2                  Linda Zhao
        * IanZhuWisc               Yangzhang Zhu
-       * ahchang2       August Chang
+       * ahchang2                 August Chang
    * When did you complete this exercise?  
    10/29
    * How long did it take your team to complete this exercise?  
